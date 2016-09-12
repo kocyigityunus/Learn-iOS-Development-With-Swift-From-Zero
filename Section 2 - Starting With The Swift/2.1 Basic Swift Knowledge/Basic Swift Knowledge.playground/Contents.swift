@@ -4,6 +4,11 @@ import UIKit
 
 var str = "Hello, playground";
 
+// variables, constants
+// optionals
+// Int, Float, Double
+// String, Literals
+
 var number1 = 5;
 var number2 : Int = 10;
 //var number3 = nil;
